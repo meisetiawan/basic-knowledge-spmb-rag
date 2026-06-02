@@ -2,11 +2,8 @@
 
 ## Pertanyaan Umum
 
-Q: Apakah lembar ceklist verifikasi berkas harus dicetak?
-A: Ya, lembar ceklist wajib dicetak dan dibawa pada saat verifikasi berkas.
+Q: Apakah lembar ceklist diisi sendiri oleh calon murid?
+A: Lembar ceklist diisi sebagian. Bagian identitas diisi sendiri oleh calon murid, sedangkan bagian ceklist kelengkapan dokumen dikosongkan karena akan diisi oleh panitia SPMB saat verifikasi berkas berlangsung.
 
-Q: Apakah lembar ceklist bisa ditunjukkan lewat HP saja tanpa dicetak?
-A: Tidak bisa. Lembar ceklist wajib dicetak dan dibawa dalam bentuk fisik pada saat verifikasi berkas.
-
-Q: Apa ukuran kertas yang digunakan untuk mencetak lembar ceklist verifikasi berkas?
-A: Lembar ceklist dapat dicetak menggunakan kertas ukuran A4 maupun F4, keduanya diperbolehkan.
+Q: Bagian mana saja yang harus diisi pada lembar ceklist?
+A: Hanya bagian identitas yang diisi oleh calon murid secara mandiri. Bagian ceklist kelengkapan dokumen tidak perlu diisi — cukup dikosongkan karena akan diisi langsung oleh panitia SPMB pada saat verifikasi berkas.
