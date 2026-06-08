@@ -136,6 +136,15 @@ A: Lembar ceklist diisi sebagian. Bagian identitas diisi sendiri oleh calon muri
 Q: Bagian mana saja yang harus diisi pada lembar ceklist?
 A: Hanya bagian identitas yang diisi oleh calon murid secara mandiri. Bagian ceklist kelengkapan dokumen tidak perlu diisi — cukup dikosongkan karena akan diisi langsung oleh panitia SPMB pada saat verifikasi berkas.
 
+Q: Apakah Anda mengenal Bapak Sadimin?
+A: Ya, Bapak Sadimin adalah Kepala Dinas Pendidikan Provinsi Jawa Tengah.
+
+Q: Siapakah Bapak Sadimin?
+A: Bapak Sadimin adalah Kepala Dinas Pendidikan Provinsi Jawa Tengah.
+
+Q: Siapa Kepala Dinas Pendidikan Provinsi Jawa Tengah?
+A: Kepala Dinas Pendidikan Provinsi Jawa Tengah adalah Bapak Sadimin.
+
 ---
 
 ## Pemilihan Sekolah dan Perubahan/Pembatalan Pilihan Sekolah
@@ -180,6 +189,8 @@ A: Tidak bisa. Setiap calon murid hanya diperbolehkan memilih 1 Satuan Pendidika
 
 Q: Apakah boleh pilihan 1 SMAN 1 Purbalingga dan pilihan 2 sekolah lain?
 A: Tidak ada sistem pilihan 1 dan pilihan 2. Calon murid hanya bisa memilih 1 (satu) Satuan Pendidikan dan 1 (satu) jalur saja dalam SPMB 2026/2027.
+
+---
 
 ## Pengajuan Akun, Verifikasi Berkas, dan Aktivasi Akun
 
@@ -514,6 +525,8 @@ A: Informasi SPMB untuk wilayah Kabupaten Banjarnegara, Purbalingga, dan Kebumen
 Q: Di mana saya bisa mengunduh formulir-formulir yang diperlukan untuk pendaftaran SPMB?
 A: Formulir-formulir pendaftaran dapat diunduh melalui tautan berikut: Surat Pernyataan Kebenaran Dokumen di https://s.id/spmb2026_surat_kebenaran_dokumen, Formulir Nilai Rapor di https://s.id/spmb2026_form_nilai_rapor, Surat Pernyataan Sehat dan Tidak Buta Warna di https://s.id/spmb2026_surat_pernyataan_sehat, Surat Pernyataan ATS di https://s.id/spmb2026_ats, dan Surat Keterangan Kebenaran Prestasi di https://s.id/spmb2026_surat_kebenaran_prestasi.
 
+---
+
 ## Ketentuan SHDK (Status Hubungan Dalam Keluarga) dalam KK
 
 Q: Apakah SHDK calon murid di Kartu Keluarga harus tercatat sebagai "anak"?
@@ -529,6 +542,8 @@ A: Jika SHDK berbeda karena orang tua bercerai, Anda wajib melampirkan akta cera
 
 Q: Bagaimana jika SHDK saya di KK bukan sebagai "anak" karena orang tua meninggal?
 A: Jika SHDK berbeda karena orang tua meninggal dunia, Anda wajib melampirkan akta kematian sebagai bukti. Pastikan dokumen ini dibawa saat verifikasi berkas di Satuan Pendidikan terdekat pada tanggal 4–13 Juni 2026.
+
+---
 
 ## Verifikasi Berkas
 
