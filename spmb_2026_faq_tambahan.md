@@ -1,6 +1,6 @@
 # FAQ SPMB 2026/2027 — Pertanyaan yang Sering Diajukan
 
-## Pemilihan dan Perubahan Pilihan Sekolah
+## Pemilihan Sekolah dan Perubahan/Pembatalan Pilihan Sekolah
 
 Q: Kapan jadwal pemilihan dan perubahan pilihan sekolah?
 A: Pemilihan dan perubahan pilihan sekolah dilaksanakan secara daring mulai **15 Juni 2026 pukul 06.00 WIB** sampai dengan **18 Juni 2026 pukul 23.59 WIB**.
