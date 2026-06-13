@@ -138,3 +138,22 @@ A: Peserta cadangan diurutkan berdasarkan perankingan sesuai proses seleksi pada
 
 Q: Apakah lebih baik mengganti pilihan sekolah atau tetap menunggu sebagai peserta cadangan?
 A: Keputusan sepenuhnya ada di tangan calon murid. Namun perlu dipertimbangkan bahwa status peserta cadangan tidak menjamin kelulusan. Jika masih ada waktu (sebelum 18 Juni 2026 pukul 23.59 WIB), pertimbangkan untuk mengganti pilihan ke sekolah lain yang masih memungkinkan posisi Anda masuk dalam jurnal.
+
+Q: Saya sudah mengganti pilihan sekolah tetapi kenapa nama saya tidak muncul di jurnal?
+Q: Saya sudah melakukan pemilihan sekolah tetapi nama saya tidak muncul di jurnal, kenapa?
+A: Perlu dipahami bahwa jurnal pendaftaran diperbarui setiap **5 menit sekali**. Jika nama Anda belum muncul, silakan tunggu dan coba **refresh halaman** 5 menit berikutnya. Jika setelah beberapa kali refresh nama masih belum muncul, pastikan proses pemilihan sekolah sudah benar-benar tersimpan dengan mengecek kembali akun Anda di spmb.jatengprov.go.id.
+
+Q: Berapa lama nama saya muncul di jurnal setelah melakukan pemilihan sekolah?
+A: Nama akan muncul di jurnal dalam waktu maksimal **5 menit** setelah pemilihan sekolah berhasil disimpan. Silakan refresh halaman jurnal setiap 5 menit sekali.
+
+Q: Apakah jurnal pendaftaran diperbarui secara real-time?
+A: Tidak real-time. Jurnal pendaftaran diperbarui setiap **5 menit sekali**. Jadi perubahan posisi di jurnal baru terlihat setelah interval tersebut.
+
+Q: Bagaimana cara memastikan pemilihan sekolah saya sudah berhasil tersimpan?
+A: Setelah melakukan pemilihan sekolah, pastikan muncul notifikasi atau konfirmasi bahwa pilihan berhasil disimpan di website spmb.jatengprov.go.id. Kemudian tunggu 5 menit dan cek jurnal untuk memastikan nama Anda sudah muncul.
+
+Q: Apakah posisi di jurnal bisa berubah sewaktu-waktu?
+A: Ya. Posisi di jurnal dapat berubah setiap 5 menit seiring dengan masuknya pendaftar baru atau adanya perubahan pilihan dari calon murid lain. Disarankan untuk memantau jurnal secara berkala terutama mendekati batas waktu akhir (18 Juni 2026 pukul 23.59 WIB).
+
+Q: Jika nama saya tiba-tiba tidak ada di jurnal padahal sebelumnya ada, apa yang harus dilakukan?
+A: Jika nama Anda tiba-tiba tidak muncul di jurnal, kemungkinan Anda tergeser oleh pendaftar lain. Segera evaluasi posisi Anda dan pertimbangkan untuk mengganti pilihan sekolah sebelum batas waktu berakhir (**18 Juni 2026 pukul 23.59 WIB**).
