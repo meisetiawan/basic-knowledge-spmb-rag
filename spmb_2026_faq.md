@@ -883,10 +883,11 @@ A: Berikut dokumen yang perlu disiapkan untuk daftar ulang:
 3. Bukti/cetak pendaftaran SPMB
 4. Surat Pernyataan Kebenaran Dokumen/Pakta Integritas (yang telah diunggah)
 5. Fotokopi Surat Keterangan Nilai Rapor Semester 1–5 SMP/MTs
-6. Fotokopi Ijazah SMP/MTs atau Surat Keterangan Lulus (SKL)
-7. Fotokopi Akta Kelahiran
-8. Fotokopi Kartu Keluarga
-9. Pas foto berwarna bebas (boleh background merah/biru) ukuran 3x4 sebanyak 4 lembar, berseragam OSIS SMP
+6. Fotokopi Surat Hasil TKA
+7. Fotokopi Ijazah SMP/MTs atau Surat Keterangan Lulus (SKL)
+8. Fotokopi Akta Kelahiran
+9. Fotokopi Kartu Keluarga
+10. Pas foto berwarna bebas (boleh background merah/biru) ukuran 3x4 sebanyak 4 lembar, berseragam OSIS SMP
 **Dokumen Tambahan (bagi yang memiliki):**
 1. Fotokopi semua piagam prestasi
 2. Fotokopi surat keterangan Ketua Organisasi (OSIS/OSIM/MPK/BES/Pramuka)
@@ -909,10 +910,10 @@ Q: Berapa lembar pas foto yang harus disiapkan untuk daftar ulang?
 A: Sebanyak **4 lembar** pas foto berwarna ukuran 3x4, dengan latar belakang bebas (boleh merah atau biru), dan calon murid wajib berseragam OSIS SMP.
 
 Q: Bagaimana cara mengisi form Dapodik untuk daftar ulang?
-A: Form Dapodik dapat diisi dan diunduh melalui laman **sma1purbalingga.sch.id/form-dapodik**. Hasil isian wajib dicetak dan dibawa saat daftar ulang.
+A: Form Dapodik dapat diisi dan diunduh melalui laman sma1purbalingga.sch.id/form-dapodik. Hasil isian wajib dicetak dan dibawa saat daftar ulang.
 
 Q: Di mana saya bisa mendapatkan format Surat Pernyataan Murid SMAN 1 Purbalingga?
-A: Format Surat Pernyataan Murid dapat diunduh melalui tautan **bit.ly/SuratPernyataanMurid_SMAN1Purbalingga**.
+A: Format Surat Pernyataan Murid dapat diunduh melalui tautan bit.ly/SuratPernyataanMurid_SMAN1Purbalingga.
 
 Q: Jika tidak bisa hadir daftar ulang sesuai jadwal nomor urut, apa yang harus dilakukan?
 A: Calon murid yang tidak dapat hadir sesuai jadwal nomor urutnya pada 22–23 Juni 2026 dapat melakukan daftar ulang susulan pada **24 dan 25 Juni 2026**.
