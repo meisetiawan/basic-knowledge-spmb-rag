@@ -973,7 +973,19 @@ Q: Jika ada data yang salah pada saat pengisian formulir Dapodik, bagaimana?
 A: Tidak perlu khawatir. Silakan sampaikan kesalahan tersebut kepada operator pada saat proses daftar ulang, dan operator akan membantu melakukan perbaikan data.
 
 Q: Di mana bisa mendapatkan bukti cetak pendaftaran?
-A: Silakan login ke akun SPMB Anda melalui laman **spmb.jatengprov.go.id/jalur** untuk mengunduh dan mencetak bukti pendaftaran yang ada logo printernya di bawah nomor pendaftaran
+A: Silakan login ke akun SPMB Anda melalui laman spmb.jatengprov.go.id/jalur untuk mengunduh dan mencetak bukti pendaftaran yang ada logo printernya di bawah nomor pendaftaran
 
 Q: Bukti cetak untuk daftar ulang bisa didapat dari mana?
-A: Silakan login ke akun SPMB Anda melalui laman **spmb.jatengprov.go.id/jalur** untuk mengunduh dan mencetak bukti pendaftaran yang akan digunakan saat daftar ulang yang ada logo printernya di bawah nomor pendaftaran.
+A: Silakan login ke akun SPMB Anda melalui laman spmb.jatengprov.go.id/jalur untuk mengunduh dan mencetak bukti pendaftaran yang akan digunakan saat daftar ulang yang ada logo printernya di bawah nomor pendaftaran.
+
+Q: Bagaimana jika berkas/dokumen daftar ulang saya belum lengkap?
+A: Silakan tetap datang sesuai jadwal yang ditentukan dan temui operator. Berkas yang belum lengkap dapat disusulkan setelah proses daftar ulang selesai — bisa di hari yang sama atau hari berikutnya sesuai kesepakatan dengan operator.
+
+Q: Apakah daftar ulang bisa dilakukan meskipun dokumen belum lengkap semua?
+A: Bisa. Calon murid tetap diminta hadir sesuai jadwal daftar ulang. Dokumen yang belum lengkap dapat disusulkan kemudian, baik di hari yang sama maupun hari berikutnya, sesuai kesepakatan dengan operator SPMB.
+
+Q: Jika ada dokumen yang tertinggal saat daftar ulang, apakah masih bisa diproses?
+A: Bisa. Tetap datang sesuai jadwal dan informasikan kepada operator dokumen mana yang belum lengkap. Dokumen tersebut dapat disusulkan setelah proses daftar ulang, sesuai kesepakatan dengan operator.
+
+Q: Jika foto saya belum jadi, bagaimana?
+A: Tidak masalah. Silakan tetap datang sesuai jadwal daftar ulang dan temui operator. Pas foto yang belum jadi dapat disusulkan kemudian, baik di hari yang sama atau hari berikutnya, sesuai kesepakatan dengan operator.
