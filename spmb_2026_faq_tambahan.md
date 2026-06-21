@@ -1,159 +1,131 @@
 # FAQ SPMB 2026/2027 — Pertanyaan yang Sering Diajukan
 
-## Pemilihan Sekolah dan Perubahan/Pembatalan Pilihan Sekolah
+## Pengumuman dan Daftar Ulang
 
-Q: Kapan jadwal pemilihan dan perubahan pilihan sekolah?
-A: Pemilihan dan perubahan pilihan sekolah dilaksanakan secara daring mulai **15 Juni 2026 pukul 06.00 WIB** sampai dengan **18 Juni 2026 pukul 23.59 WIB**.
+Q: Kapan jadwal daftar ulang?
+A: Daftar ulang dilaksanakan pada tanggal **22–25 Juni 2026** dengan rincian sebagai berikut:
+**Senin, 22 Juni 2026**
+| Operator | Jalur dan Nomor Urut |
+|----------|----------------------|
+| 1 | Prestasi nomor 1–20 |
+| 2 | Prestasi nomor 21–40 |
+| 3 | Prestasi nomor 41–60 |
+| 4 | Prestasi nomor 61–80 |
+| 5 | Prestasi nomor 81–100 |
+| 6 | Prestasi nomor 101–120 |
+| 7 | Prestasi nomor 121–130 dan Domisili nomor 1–10 |
+| 8 | Domisili nomor 11–30 |
+| 9 | Domisili nomor 31–50 |
+| 10 | Domisili nomor 51–70 |
+**Selasa, 23 Juni 2026**
+| Operator | Jalur dan Nomor Urut |
+|----------|----------------------|
+| 1 | Domisili nomor 71-94 |
+| 2 | Domisili nomor 95-118 |
+| 3 | Domisili nomor 119-141 |
+| 4 | Domisili nomor 142-153 dan Mutasi nomor 1-11 |
+| 5 | Afirmasi nomor 1–23 |
+| 6 | Afirmasi nomor 24–46 |
+| 7 | Afirmasi nomor 47–69 |
+| 8 | Afirmasi nomor 70–92 |
+| 9 | Afirmasi nomor 93–115 |
+| 10 | Afirmasi nomor 116–138 |
+Bagi calon murid yang tidak dapat hadir sesuai jadwal di atas, daftar ulang susulan dapat dilakukan pada **24 dan 25 Juni 2026**.
 
-Q: Tanggal 15 Juni pemilihan sekolah dimulai jam berapa?
-A: Pemilihan dan perubahan pilihan sekolah secara daring dibuka mulai **pukul 06.00 WIB** pada tanggal 15 Juni 2026 sampai dengan 18 Juni 2026 pukul 23.59 WIB.
+Q: Apa saja berkas persyaratan daftar ulang?
+Q: Apa saja yang perlu dibawa pada saat daftar ulang?
+Q: Dokumen apa saja yang dibawa pada saat daftar ulang?
+A: Berikut dokumen yang perlu disiapkan untuk daftar ulang:
+**Dokumen Wajib:**
+1. Cetak hasil isian Dapodik (isi dan unduh di **sma1purbalingga.sch.id/form-dapodik**)
+2. Surat Pernyataan Murid SMAN 1 Purbalingga (format unduh di **bit.ly/SuratPernyataanMurid_SMAN1Purbalingga**)
+3. Bukti/cetak pendaftaran SPMB
+4. Surat Pernyataan Kebenaran Dokumen/Pakta Integritas (yang telah diunggah)
+5. Fotokopi Surat Keterangan Nilai Rapor Semester 1–5 SMP/MTs
+6. Fotokopi Ijazah SMP/MTs atau Surat Keterangan Lulus (SKL)
+7. Fotokopi Akta Kelahiran
+8. Fotokopi Kartu Keluarga
+9. Pas foto berwarna bebas (boleh background merah/biru) ukuran 3x4 sebanyak 4 lembar, berseragam OSIS SMP
+**Dokumen Tambahan (bagi yang memiliki):**
+1. Fotokopi semua piagam prestasi
+2. Fotokopi surat keterangan Ketua Organisasi (OSIS/OSIM/MPK/BES/Pramuka)
+3. Fotokopi surat keterangan disabilitas dari ahli
+4. Fotokopi surat pernyataan Anak Panti
+5. Fotokopi surat mutasi Dapodik (ATS)
+6. Surat Keputusan Mutasi
+7. Surat Keterangan Domisili
+8. Surat Keterangan Penugasan Guru
+**Semua dokumen tersebut dimasukan ke dalam stofmap dengan ketentuan**
+1. Jalur Prestasi : Biru
+2. Jalur Domisili : Hijau
+3. Jalur Afirmasi : Merah
+4. Jalur Mutasi : Kuning
 
-Q: Apakah pemilihan sekolah bisa dilakukan secara online dari rumah?
-A: Bisa. Pemilihan sekolah dapat dilakukan secara mandiri menggunakan gawai (HP/laptop) dari rumah masing-masing. Pastikan pemilihan dilakukan sesuai jadwal 15–18 Juni 2026.
+Q: Apakah dokumen tambahan wajib dibawa semua saat daftar ulang?
+A: Tidak wajib. Dokumen tambahan hanya perlu dibawa **bagi calon murid yang memiliki** dokumen tersebut, sesuai dengan kategori prestasi atau jalur pendaftaran masing-masing.
 
-Q: Apakah jika ingin pindah pilihan sekolah harus datang ke sekolah?
-A: Tidak perlu. Perubahan pilihan sekolah dapat dilakukan secara mandiri secara online dari rumah masing-masing. Pastikan perubahan dilakukan sesuai jadwal 15–18 Juni 2026.
+Q: Berapa lembar pas foto yang harus disiapkan untuk daftar ulang?
+A: Sebanyak **4 lembar** pas foto berwarna ukuran 3x4, dengan latar belakang bebas (boleh merah atau biru), dan calon murid wajib berseragam OSIS SMP.
 
-Q: Apakah bisa pindah atau ganti pilihan sekolah jika tidak diterima di sekolah pertama?
-A: Bisa. Perubahan pilihan sekolah dapat dilakukan secara mandiri menggunakan gawai masing-masing tanpa perlu datang ke sekolah. Pastikan perubahan dilakukan sesuai jadwal pemilihan dan perubahan pilihan sekolah (15–18 Juni 2026).
+Q: Bagaimana cara mengisi form Dapodik untuk daftar ulang?
+A: Form Dapodik dapat diisi dan diunduh melalui laman **sma1purbalingga.sch.id/form-dapodik**. Hasil isian wajib dicetak dan dibawa saat daftar ulang.
 
-Q: Apakah ada tes tulis dalam SPMB SMAN 1 Purbalingga 2026?
-A: Tidak ada tes tulis dalam SPMB SMAN 1 Purbalingga tahun 2026.
+Q: Di mana saya bisa mendapatkan format Surat Pernyataan Murid SMAN 1 Purbalingga?
+A: Format Surat Pernyataan Murid dapat diunduh melalui tautan **bit.ly/SuratPernyataanMurid_SMAN1Purbalingga**.
 
-Q: Kapan tes tulis SPMB SMAN 1 Purbalingga dilaksanakan?
-A: Tidak ada tes tulis dalam SPMB SMAN 1 Purbalingga tahun 2026.
+Q: Jika tidak bisa hadir daftar ulang sesuai jadwal nomor urut, apa yang harus dilakukan?
+A: Calon murid yang tidak dapat hadir sesuai jadwal nomor urutnya pada 22–23 Juni 2026 dapat melakukan daftar ulang susulan pada **24 dan 25 Juni 2026**.
 
-Q: Apakah pada saat verifikasi berkas, calon murid dibantu untuk aktivasi akun?
-A: Ya. Jika verifikasi berkas dilakukan di SMAN 1 Purbalingga, operator akan membantu melakukan aktivasi akun sehingga akun siap digunakan untuk pemilihan sekolah pada tanggal 15 Juni 2026.
+Q: Apa yang terjadi jika tidak melakukan daftar ulang sampai batas waktu?
+A: Calon murid yang dinyatakan diterima namun tidak melakukan daftar ulang sampai batas waktu (25 Juni 2026) dianggap **mengundurkan diri** dan haknya dinyatakan **gugur**.
 
-Q: Apakah setelah aktivasi akun calon murid mendapatkan password?
-A: Password dibuat sendiri oleh calon murid pada saat aktivasi akun. Password minimal terdiri dari **8 karakter** dengan kombinasi huruf besar, huruf kecil, angka, dan karakter khusus.
+Q: Apakah daftar ulang bisa diwakilkan?
+Q: Bagaimana jika calon murid tidak bisa hadir pada saat daftar ulang?
+A: Jika calon murid berhalangan hadir, daftar ulang dapat digantikan oleh orang tuanya.
 
-Q: Bagaimana jika lupa password akun SPMB?
-A: Jika lupa password, calon murid dapat menggunakan fitur **Lupa Password** dengan memasukkan alamat email yang digunakan saat pengajuan akun. Link reset password akan dikirimkan ke email tersebut. Atau calon murid dapat datang langsung ke sekolah dan meminta operator SPMB untuk meresetkan password.
+Q: Siapa saja yang harus hadir pada saat daftar ulang?
+A: Yang hadir saat daftar ulang adalah **calon murid beserta orang tuanya**. Jika calon murid berhalangan hadir, dapat digantikan oleh orang tua.
 
-Q: Apakah bisa meminta reset password ke sekolah?
-A: Bisa. Calon murid dapat datang langsung ke SMAN 1 Purbalingga dan meminta operator SPMB untuk meresetkan password akun.
+Q: Jalur Domisili mapnya warna apa?
+Q: Jalur zonasi mapnya warna apa?
+Q: Jalur Afirmasi mapnya warna apa?
+Q: Jalur Prestasi mapnya warna apa?
+Q: Jalur Mutasi mapnya warna apa?
+A: Map untuk Jalur zonasi/Domisili berwarna **hijau**. Jalur Afirmasi **merah**. Jalur Prestasi **biru**. Jalur mutasi **kuning**.
 
-Q: Jika tidak diterima di SMA yang dituju, kapan dan di mana pencabutan berkas dilakukan?
-A: Tidak ada pencabutan berkas. Pada saat verifikasi berkas di SMAN 1 Purbalingga, operator SPMB tidak meminta berkas dalam bentuk apapun untuk dikumpulkan — semua dokumen asli dibawa pulang kembali oleh calon murid. Jika tidak diterima, calon murid dapat langsung mengganti pilihan sekolah secara online selama jadwal pemilihan dan perubahan pilihan sekolah berlangsung (15–18 Juni 2026).
+Q: Apa warna map untuk masing-masing jalur SPMB?
+A: Ketentuan warna map per jalur sebagai berikut:
+- Jalur Prestasi: **Biru**
+- Jalur Domisili: **Hijau**
+- Jalur Afirmasi: **Merah**
+- Jalur Mutasi: **Kuning**
 
-Q: Apakah bisa mencabut berkas di sekolah jika tidak diterima?
-A: Tidak perlu mencabut berkas karena berkas tidak dikumpulkan di sekolah. Semua dokumen asli sudah dibawa pulang saat verifikasi berkas. Jika tidak diterima, calon murid cukup mengganti pilihan sekolah secara online (15–18 Juni 2026).
+Q: Apakah daftar ulang perlu mengambil tiket antrian?
+A: Tidak perlu. Silakan cek jadwal daftar ulang sesuai dengan urutan ranking penerimaan yang telah ditentukan.
 
-Q: Bagaimana cara mengganti pilihan sekolah?
-A: Perubahan pilihan sekolah dilakukan secara online melalui sistem SPMB Jawa Tengah. Calon murid cukup login menggunakan akun yang sudah diaktivasi, kemudian batalkan pilihan lama dan pilih sekolah baru. Pastikan dilakukan sesuai jadwal 15–18 Juni 2026.
+Q: Pakaian apa yang dikenakan saat daftar ulang?
+A: Seragam SMP lengkap sesuai dengan ketentuan hari (mengikuti jadwal seragam sekolah asal masing-masing).
 
-Q: Apakah bisa memilih lebih dari satu sekolah sekaligus?
-A: Tidak bisa. Calon murid hanya dapat memilih **1 (satu) Satuan Pendidikan** pada satu waktu. Tidak ada sistem pilihan 1 dan pilihan 2 ke sekolah yang berbeda.
+Q: Pas foto untuk daftar ulang berwarna atau hitam putih?
+A: Pas foto wajib **berwarna**, dengan latar belakang bebas (boleh merah atau biru), dan wajib menggunakan seragam OSIS SMP.
 
-Q: Sampai jam berapa batas akhir perubahan pilihan sekolah?
-A: Batas akhir perubahan pilihan sekolah adalah **18 Juni 2026 pukul 23.59 WIB**. Setelah waktu tersebut, pilihan tidak dapat diubah lagi.
+Q: Bagaimana cara mengetahui hasil pengumuman SPMB?
+Q: Bagaimana cara mengetahui peringkat hasil seleksi SPMB?
+A: Hasil pengumuman dan peringkat seleksi SPMB dapat dicek melalui website resmi **spmb.jatengprov.go.id**.
 
-Q: Apakah bisa mengubah pilihan jalur sekaligus ganti sekolah?
-A: Bisa, selama masih dalam masa pemilihan dan perubahan sekolah (15–18 Juni 2026). Batalkan pilihan lama terlebih dahulu, kemudian pilih jalur dan sekolah yang baru.
+Q: Berapa jumlah murid yang diterima di SMAN 1 Purbalingga?
+A: Jumlah murid yang diterima di SMAN 1 Purbalingga per jalur:
+- Jalur Prestasi: **130 murid**
+- Jalur Domisili: **153 murid**
+- Jalur Afirmasi: **138 murid**
+- Jalur Mutasi: **11 murid**
 
-Q: Jika akun belum diaktivasi, apakah masih bisa memilih sekolah?
-A: Tidak bisa. Akun harus sudah diaktivasi paling lambat **14 Juni 2026** agar dapat digunakan untuk pemilihan sekolah pada 15 Juni 2026. Jika belum aktivasi, segera datang ke SMAN 1 Purbalingga atau sekolah terdekat untuk meminta bantuan operator.
+Q: Jika lupa mencetak bukti pendaftaran sekolah, bagaimana caranya?
+A: Silakan login kembali ke **spmb.jatengprov.go.id** untuk mengunduh ulang bukti pendaftaran tersebut, kemudian cetak bukti pendaftaran tersebut.
 
-Q: Apakah ada biaya untuk pemilihan sekolah?
-A: Tidak ada. Seluruh proses SPMB termasuk pemilihan sekolah di SMA/SMK Negeri Jawa Tengah adalah **GRATIS** — tidak dipungut biaya apapun.
+Q: Jika belum mengunduh bukti pengisian formulir Dapodik, bagaimana caranya?
+A: Silakan akses kembali website **s.id/dapodik-ganesha**, masukkan NISN dan tanggal lahir Anda, kemudian unduh bukti pengisian formulir Dapodik melalui menu yang tersedia.
 
-Q: Bagaimana cara melakukan pemilihan sekolah?
-Q: Bagaimana cara mendaftar ke sekolah yang dituju?
-A: Berikut langkah-langkah pemilihan sekolah:
-1. Akses website **spmb.jatengprov.go.id**
-2. Pilih menu **Masuk**
-3. Masukkan **NISN**, **password**, dan **kode captcha**
-4. Pilih **jenjang** (SMA/SMK)
-5. Pilih **jalur** yang tersedia untuk Anda
-6. Pilih **kabupaten/kota**
-7. Pilih **sekolah** yang dituju
-8. Konfirmasi pilihan Anda
-Pastikan pemilihan dilakukan sesuai jadwal **15–18 Juni 2026 pukul 06.00–23.59 WIB**.
-
-Q: Bagaimana cara melakukan perubahan pilihan jalur atau perubahan pilihan sekolah?
-A: Berikut langkah-langkah perubahan pilihan sekolah atau jalur:
-1. Akses website **spmb.jatengprov.go.id**
-2. Pilih menu **Masuk**
-3. Masukkan **NISN**, **password**, dan **kode captcha**
-4. **Batalkan** pilihan jalur dan sekolah yang telah dipilih sebelumnya
-5. Ulangi proses pemilihan: pilih jenjang, jalur, kabupaten, dan sekolah baru
-6. Konfirmasi pilihan baru Anda
-Pastikan perubahan dilakukan sesuai jadwal **15–18 Juni 2026**.
-
-Q: Apakah bisa ganti jalur tetapi tetap mendaftar di sekolah yang sama?
-A: Bisa, jika Anda memiliki minimal **2 hak mendaftar pada jalur yang berbeda**. Misalnya, Anda bisa mengganti pilihan masuk ke SMAN 1 Purbalingga dari Jalur Domisili ke Jalur Prestasi, atau sebaliknya, selama memenuhi persyaratan jalur yang dituju.
-
-Q: Jika nama saya sudah tidak ada di jurnal, bagaimana?
-A: Jika nama Anda tidak muncul di jurnal, artinya Anda sudah tersingkir dari persaingan pada sekolah dan jalur yang dipilih sebelumnya. Anda masih bisa:
-- Mencoba jalur lain yang memenuhi syarat
-- Mengganti pilihan ke sekolah lain yang masih memungkinkan
-Pastikan perubahan dilakukan sebelum **18 Juni 2026 pukul 23.59 WIB**.
-
-Q: Jika nama saya berada di posisi paling bawah jurnal, apakah masih aman?
-A: Kami tidak bisa menjamin keamanan posisi Anda karena dinamika pendaftaran terus berubah hingga batas waktu terakhir. Saran kami:
-- Tetap pantau jurnal secara berkala
-- Siapkan strategi alternatif (jalur lain atau sekolah lain)
-- Ambil keputusan perubahan pilihan sebelum **18 Juni 2026 pukul 23.59 WIB**
-Semoga mendapatkan hasil terbaik!
-
-Q: Di mana bisa memantau jurnal pendaftaran?
-A: Jurnal pendaftaran dapat dipantau secara online melalui website **spmb.jatengprov.go.id**. Pantau secara berkala terutama mendekati batas waktu akhir pemilihan sekolah (18 Juni 2026).
-
-Q: Apakah jurnal pendaftaran bisa dilihat secara real-time?
-A: Ya. Jurnal pendaftaran diperbarui secara berkala dan dapat dipantau kapan saja melalui website **spmb.jatengprov.go.id** selama masa pemilihan dan perubahan sekolah berlangsung (15–18 Juni 2026).
-
-Q: Bagaimana jika lupa NISN saat akan login?
-A: NISN dapat dicek melalui:
-- Rapor SMP/sederajat
-- Ijazah SMP/sederajat
-- Website **nisn.data.kemdikbud.go.id**
-- Bukti pengajuan akun atau bukti verifikasi akun SPMB
-- Atau menghubungi sekolah asal (SMP) Anda
-
-Q: Apakah bisa memilih sekolah di luar kabupaten domisili?
-A: Tergantung jalur yang dipilih. Untuk Jalur Prestasi, calon murid dapat mendaftar di satuan pendidikan di dalam maupun di luar wilayah SPMB domisilinya. Untuk Jalur Domisili, pendaftaran hanya bisa dilakukan pada satuan pendidikan dalam wilayah domisili SPMB sesuai alamat domisili di Kartu Keluarga.
-
-Q: Berapa kali bisa melakukan perubahan pilihan sekolah?
-A: Tidak ada batasan jumlah perubahan pilihan sekolah selama masih dalam masa pemilihan dan perubahan sekolah (**15–18 Juni 2026 pukul 06.00–23.59 WIB**). Namun pastikan perubahan sudah final sebelum batas waktu berakhir.
-
-Q: Apa yang terjadi jika tidak melakukan pemilihan sekolah sampai batas waktu?
-A: Jika tidak melakukan pemilihan sekolah hingga **18 Juni 2026 pukul 23.59 WIB**, akun tidak akan terdaftar pada satuan pendidikan manapun dan tidak akan muncul dalam pengumuman hasil seleksi pada 21 Juni 2026.
-
-Q: Apa yang terjadi jika nama saya sudah tidak ada di jurnal dan saya tidak mengganti pilihan sekolah?
-A: Jika sampai batas waktu pemilihan dan perubahan pilihan sekolah berakhir (18 Juni 2026 pukul 23.59 WIB) nama Anda sudah tidak ada di jurnal pada sekolah yang dipilih, maka Anda akan masuk dalam **daftar cadangan** di sekolah tersebut.
-
-Q: Apa itu peserta cadangan?
-A: Peserta cadangan adalah calon murid yang akan menggantikan posisi peserta yang sudah dinyatakan lolos seleksi namun tidak melakukan daftar ulang. Jika seluruh peserta yang lolos seleksi melakukan daftar ulang, maka peserta cadangan tidak dapat menggantikan posisi mereka. Peserta cadangan diurutkan berdasarkan perankingan sesuai proses seleksi pada masing-masing jalur.
-
-Q: Apakah peserta cadangan pasti bisa masuk ke sekolah yang dituju?
-A: Tidak ada jaminan. Peserta cadangan hanya bisa masuk jika ada peserta yang lolos seleksi tidak melakukan daftar ulang sampai batas waktu yang ditentukan (22–25 Juni 2026 pukul 15.00 WIB). Jika semua peserta yang lolos melakukan daftar ulang, peserta cadangan tidak bisa masuk.
-
-Q: Kapan pengumuman peserta cadangan?
-A: Pengumuman peserta cadangan diumumkan pada **26 Juni 2026**. Peserta cadangan yang dinyatakan lolos wajib melakukan daftar ulang pada **29–30 Juni 2026**.
-
-Q: Bagaimana urutan prioritas peserta cadangan?
-A: Peserta cadangan diurutkan berdasarkan perankingan sesuai proses seleksi pada jalur yang dipilih — sama seperti proses seleksi utama. Semakin tinggi peringkat, semakin besar peluang untuk menggantikan peserta yang tidak daftar ulang.
-
-Q: Apakah lebih baik mengganti pilihan sekolah atau tetap menunggu sebagai peserta cadangan?
-A: Keputusan sepenuhnya ada di tangan calon murid. Namun perlu dipertimbangkan bahwa status peserta cadangan tidak menjamin kelulusan. Jika masih ada waktu (sebelum 18 Juni 2026 pukul 23.59 WIB), pertimbangkan untuk mengganti pilihan ke sekolah lain yang masih memungkinkan posisi Anda masuk dalam jurnal.
-
-Q: Saya sudah mengganti pilihan sekolah tetapi kenapa nama saya tidak muncul di jurnal?
-Q: Saya sudah melakukan pemilihan sekolah tetapi nama saya tidak muncul di jurnal, kenapa?
-A: Perlu dipahami bahwa jurnal pendaftaran diperbarui setiap **5 menit sekali**. Jika nama Anda belum muncul, silakan tunggu dan coba **refresh halaman** 5 menit berikutnya. Jika setelah beberapa kali refresh nama masih belum muncul, pastikan proses pemilihan sekolah sudah benar-benar tersimpan dengan mengecek kembali akun Anda di spmb.jatengprov.go.id.
-
-Q: Berapa lama nama saya muncul di jurnal setelah melakukan pemilihan sekolah?
-A: Nama akan muncul di jurnal dalam waktu maksimal **5 menit** setelah pemilihan sekolah berhasil disimpan. Silakan refresh halaman jurnal setiap 5 menit sekali.
-
-Q: Apakah jurnal pendaftaran diperbarui secara real-time?
-A: Tidak real-time. Jurnal pendaftaran diperbarui setiap **5 menit sekali**. Jadi perubahan posisi di jurnal baru terlihat setelah interval tersebut.
-
-Q: Bagaimana cara memastikan pemilihan sekolah saya sudah berhasil tersimpan?
-A: Setelah melakukan pemilihan sekolah, pastikan muncul notifikasi atau konfirmasi bahwa pilihan berhasil disimpan di website spmb.jatengprov.go.id. Kemudian tunggu 5 menit dan cek jurnal untuk memastikan nama Anda sudah muncul.
-
-Q: Apakah posisi di jurnal bisa berubah sewaktu-waktu?
-A: Ya. Posisi di jurnal dapat berubah setiap 5 menit seiring dengan masuknya pendaftar baru atau adanya perubahan pilihan dari calon murid lain. Disarankan untuk memantau jurnal secara berkala terutama mendekati batas waktu akhir (18 Juni 2026 pukul 23.59 WIB).
-
-Q: Jika nama saya tiba-tiba tidak ada di jurnal padahal sebelumnya ada, apa yang harus dilakukan?
-A: Jika nama Anda tiba-tiba tidak muncul di jurnal, kemungkinan Anda tergeser oleh pendaftar lain. Segera evaluasi posisi Anda dan pertimbangkan untuk mengganti pilihan sekolah sebelum batas waktu berakhir (**18 Juni 2026 pukul 23.59 WIB**).
+Q: Jika ada kesalahan di formulir Dapodik, bagaimana caranya?
+Q: Jika ada data yang salah pada saat pengisian formulir Dapodik, bagaimana?
+A: Tidak perlu khawatir. Silakan sampaikan kesalahan tersebut kepada operator pada saat proses daftar ulang, dan operator akan membantu melakukan perbaikan data.
