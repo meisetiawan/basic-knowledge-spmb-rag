@@ -970,3 +970,9 @@ A: Silakan akses kembali website **s.id/dapodik-ganesha**, masukkan NISN dan tan
 Q: Jika ada kesalahan di formulir Dapodik, bagaimana caranya?
 Q: Jika ada data yang salah pada saat pengisian formulir Dapodik, bagaimana?
 A: Tidak perlu khawatir. Silakan sampaikan kesalahan tersebut kepada operator pada saat proses daftar ulang, dan operator akan membantu melakukan perbaikan data.
+
+Q: Di mana bisa mendapatkan bukti cetak pendaftaran?
+A: Silakan login ke akun SPMB Anda melalui laman **spmb.jatengprov.go.id/jalur** untuk mengunduh dan mencetak bukti pendaftaran yang ada logo printernya di bawah nomor pendaftaran
+
+Q: Bukti cetak untuk daftar ulang bisa didapat dari mana?
+A: Silakan login ke akun SPMB Anda melalui laman **spmb.jatengprov.go.id/jalur** untuk mengunduh dan mencetak bukti pendaftaran yang akan digunakan saat daftar ulang yang ada logo printernya di bawah nomor pendaftaran.
